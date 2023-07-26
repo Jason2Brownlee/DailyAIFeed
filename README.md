@@ -26,4 +26,4 @@ The code for preparing and sending out the daily newsletter may have been list.
 
 * [DailyAIFeed.com](https://web.archive.org/web/20120318043020/http://www.dailyaifeed.com/) (archived)
 * [Blog.DailyAIFeed.com](https://web.archive.org/web/20120621104047/http://blog.dailyaifeed.com/) (archived)
-* dailyaifeed.blogspot.com (not archived)
+* https://dailyaifeed.blogspot.com
